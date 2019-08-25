@@ -22,10 +22,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
     DatabaseReference myRef;
-    Button pushButton;
-
     Button loginButton;
-
     static List<Restaurant> restaurantList;
 
     @Override
